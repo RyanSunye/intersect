@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Recent/CppFiles/SE/step2/Line.cpp
+cmath
+-
+Line.h
+F:/Recent/CppFiles/SE/step2/Line.h
+stack
+-
+iostream
+-
+cassert
+-
+cstdarg
+-
+
+F:/Recent/CppFiles/SE/step2/Line.h
+queue
+-
+set
+-
+cmath
+-
+string
+-
+sstream
+-
+map
+-
+
